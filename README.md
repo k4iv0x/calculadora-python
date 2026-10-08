@@ -36,4 +36,3 @@ Este proyecto me sirvió para aprender y practicar:
 ```bash
 python3 main.py
 
-3b25b8d (Añade captura y mejora README)
