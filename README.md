@@ -1,18 +1,16 @@
 # Calculadora en Python
 
-Mi primer proyecto completo desarrollado con Python y Tkinter.
+Mi primer proyectro completo desarollado con Python y Tkinter.
 
 ## Descripción
 
-Aplicación de calculadora con interfaz gráfica capaz de realizar:
+Calculadora gráfica para realizar operaciones básicas:
+- Suma
+- Resta
+- Multiplicación
+- División
 
-- Sumas
-- Restas
-- Multiplicaciones
-- Divisiones
-- Control de división entre cero
-- Reinicio de operaciones con el botón C
-- Encadenado de operaciones usando el resultado anterior
+Incluye manejo de división entre cero, limpieza de operaciones y una interfaz gráfica personalizada.
 
 ## Tecnologías
 
@@ -21,18 +19,21 @@ Aplicación de calculadora con interfaz gráfica capaz de realizar:
 
 ## Lo que aprendí
 
-Con este proyecto practiqué:
-
+Este proyecto me sirvió para aprender y practicar:
 - Clases y métodos en Python
 - Interfaces gráficas con Tkinter
-- Gestión del estado de una aplicación
-- Eventos y botones
-- Funciones `lambda`
+- Manejo de eventos y botones
+- Uso de funciones lambda
 - Validación de errores
 - Refactorización de código
-- Git y GitHub
+- Estado interno de una aplicación
 
-## Ejecución
+## Vista previa
+![Calculadora en funcionamiento](screenshots/calculadora.png)
+
+## Ejecutar el proyecto
 
 ```bash
 python3 main.py
+
+>>>>>>> 3b25b8d (Añade captura y mejora README)
